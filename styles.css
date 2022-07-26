@@ -1,0 +1,24 @@
+body {
+    background-color: #576574;
+    color: #fff;
+}
+
+.previewer {
+    background-color: #fff;
+    color: black;
+}
+#editor,
+.previewer {
+    min-height: 400px;
+    background-color: #ffffffab;
+}
+.row-6 {
+    margin-bottom: 10px;
+}
+pre {
+    background-color: #ffffff6c;
+    color: rgb(24, 24, 24);
+}
+blockquote {
+    color: rgba(0, 0, 0, 0.637);
+}
